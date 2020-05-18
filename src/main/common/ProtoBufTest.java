@@ -1,4 +1,4 @@
-package com.ljavaw.protobuf;
+package protobuf;
 
 import com.google.protobuf.InvalidProtocolBufferException;
 
