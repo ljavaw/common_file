@@ -10,6 +10,9 @@ import io.netty.handler.logging.LoggingHandler;
 
 import java.net.InetSocketAddress;
 
+/**
+ * 实现websocket长连接，全双工传输数据（演示界面是webapp下的test.html）
+ **/
 public class MyServer {
 
     public static void main(String[] args) {

@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- *
+ * 客户端-服务端 聊天程序 client
  */
 public class MyChatClient {
 

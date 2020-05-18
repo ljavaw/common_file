@@ -7,7 +7,7 @@ import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
 
 /**
- * HttpServer
+ * 实现HttpServer，类似tomcat
  */
 public class TestServer {
 

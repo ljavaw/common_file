@@ -7,7 +7,7 @@ import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
 
 /**
- * RPC socket编程
+ * RPC socket编程 server
  */
 public class MyServer {
 
