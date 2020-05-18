@@ -1,6 +1,6 @@
 package com.ljavaw.netty.sixthdemo;
 
-import com.ljavaw.protobuf.DataInfo;
+import common.protobuf.DataInfo;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 import io.netty.channel.SimpleChannelInboundHandler;

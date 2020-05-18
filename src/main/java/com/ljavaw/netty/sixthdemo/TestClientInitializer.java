@@ -1,6 +1,6 @@
 package com.ljavaw.netty.sixthdemo;
 
-import com.ljavaw.protobuf.DataInfo;
+import common.protobuf.DataInfo;
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;
 import io.netty.channel.socket.SocketChannel;
